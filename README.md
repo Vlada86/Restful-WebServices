@@ -3,7 +3,6 @@
 
 ### Basics of RESTful Services
 
-* Enhancing the Hello World Service with a Path Variable
 * Creating User Bean and User Service
 * Implementing GET Methods for User Resource
 * Implementing POST Method to create User Resource
