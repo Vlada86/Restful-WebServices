@@ -3,8 +3,6 @@
 
 ### Basics of RESTful Services
 
-* Enhancing the Hello World Service to return a Bean
-* Quick Review of Spring Boot Auto Configuration and Dispatcher Servlet - What's happening in the background?
 * Enhancing the Hello World Service with a Path Variable
 * Creating User Bean and User Service
 * Implementing GET Methods for User Resource
@@ -18,7 +16,7 @@
 * Implementing HATEOAS for RESTful Services
 
 ### Advanced RESTful Service Features
-* Overview of Advanced RESTful Service Features
+
 * Internationalization for RESTful Services
 * Content Negotiation - Implementing Support for XML
 * Configuring Auto Generation of Swagger Documentation
@@ -32,7 +30,7 @@
 * Implementing Basic Authentication with Spring Security
 
 ### Connecting RESTful Service to JPA
-* Overview of Connecting RESTful Service to JPA
+
 * Creating User Entity and some test data
 * Updating GET methods on User Resource to use JPA
 * Updating POST and DELETE methods on User Resource to use JPA
