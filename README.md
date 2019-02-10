@@ -3,12 +3,12 @@
 
 ### Basics of RESTful Services
 
-*Enhancing the Hello World Service to return a Bean
-*Quick Review of Spring Boot Auto Configuration and Dispatcher Servlet - What's happening in the background?
-*Enhancing the Hello World Service with a Path Variable
-*Creating User Bean and User Service
-*Implementing GET Methods for User Resource
-*Implementing POST Method to create User Resource
+* Enhancing the Hello World Service to return a Bean
+* Quick Review of Spring Boot Auto Configuration and Dispatcher Servlet - What's happening in the background?
+* Enhancing the Hello World Service with a Path Variable
+* Creating User Bean and User Service
+* Implementing GET Methods for User Resource
+* Implementing POST Method to create User Resource
 Enhancing POST Method to return correct HTTP Status Code and Location URI
 Implementing Exception Handling - 404 Resource Not Found
 Implementing Generic Exception Handling for all Resources
