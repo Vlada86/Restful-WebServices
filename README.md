@@ -3,7 +3,7 @@
 
 ### Basics of RESTful Services
 
--Enhancing the Hello World Service to return a Bean
+--Enhancing the Hello World Service to return a Bean
 -Quick Review of Spring Boot Auto Configuration and Dispatcher Servlet - What's happening in the background?
 Enhancing the Hello World Service with a Path Variable
 Creating User Bean and User Service
