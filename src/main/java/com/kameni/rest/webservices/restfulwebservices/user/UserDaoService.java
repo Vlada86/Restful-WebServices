@@ -31,6 +31,9 @@ public class UserDaoService {
         users.add(new User(4, "Perica", new Date()));
         users.add(new User(5, "Milica", new Date()));
         users.add(new User(6, "Novica", new Date()));
+        users.add(new User(4, "Perica", new Date()));
+        users.add(new User(5, "Milica", new Date()));
+        users.add(new User(6, "Novica", new Date()));
 
 	}
 
